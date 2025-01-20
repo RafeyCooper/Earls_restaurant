@@ -30,7 +30,7 @@ body {
   color:#8c8c8c;
   line-height:26px;
   font-weight:400;
-  background:#0B1315;
+  background: #27374D;
   font-family: 'Josefin Sans', sans-serif;
   background-size:cover;
   background-repeat:no-repeat;
@@ -147,7 +147,7 @@ p{
   top: 150px;
   bottom: 0;
   right: 0;
-  border-top: 1px solid #715B3E;
+  border-top: 1px solid #9DB2BF;
   z-index: 999;
 }
 
@@ -157,7 +157,7 @@ p{
   top: 0;
   bottom: 0;
   right: 0;
-  border-left: 1px solid #715B3E;
+  border-left: 1px solid #9DB2BF;
   z-index: 999;
 }
 
@@ -167,7 +167,7 @@ p{
   top: 0;
   bottom: 0;
   right: 150px;
-  border-right: 1px solid #715B3E;
+  border-right: 1px solid #9DB2BF;
   z-index: 999;
 }
 .sub____title{
@@ -539,7 +539,7 @@ img {
   font-family: 'Josefin Sans', sans-serif;
   color: var(--white-color);
   font-weight: 400;
-  border: 1px solid #715B3E;
+  border: 1px solid #9DB2BF;
   padding: 11px 34px;
   z-index: 1;
 }

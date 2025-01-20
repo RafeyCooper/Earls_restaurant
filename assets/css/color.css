@@ -1,9 +1,13 @@
 :root {
-  --theme-color:#C9AB81;
-  --primary-color:#0F1D22;
-  --secondary-color:#715B3E;
+  /* --theme-color:#C9AB81; */
+  --theme-color: #DDE6ED;
+  /* --primary-color:#0F1D22; */
+  --primary-color: #526D82;
+  /* --secondary-color:#715B3E; */
+  --secondary-color:#27374D;
   --white-color:#fff;
-  --higer-secondary-color:#B0B0B0;
+  /* --higer-secondary-color:#B0B0B0; */
+  --higer-secondary-color:#9DB2BF;
 
 
   --primary-font: 'Josefin Sans', sans-serif;
